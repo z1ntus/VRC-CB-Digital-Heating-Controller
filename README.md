@@ -48,12 +48,6 @@ be documented in `docs/` before release.
 
 The firmware is intended for the Arduino Nano ESP32.
 
-Software is released under:
-
-**GNU General Public License v3.0 or later (GPL-3.0-or-later)**
-
-See `LICENSES/SOFTWARE-LICENSE.md`.
-
 ## Hardware licence
 
 The KiCad hardware design files are released under:
@@ -67,6 +61,14 @@ The CERN OHL v2 licence text is maintained by CERN. The definitive licence
 text is available from:
 
 https://cern-ohl.web.cern.ch/
+
+## Software license
+
+Software is released under:
+
+**GNU General Public License v3.0 or later (GPL-3.0-or-later)**
+
+See `LICENSES/SOFTWARE-LICENSE.md`.
 
 ## Documentation licence
 
