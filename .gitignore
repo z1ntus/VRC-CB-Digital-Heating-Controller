@@ -1,0 +1,24 @@
+# Arduino / PlatformIO
+.pio/
+.vscode/
+*.elf
+*.hex
+*.bin
+*.map
+
+# KiCad generated/temporary files
+.history/
+*-backups/
+*.lck
+fp-info-cache
+sym-lib-table
+fp-lib-table
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local configuration
+.env

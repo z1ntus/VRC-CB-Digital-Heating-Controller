@@ -1,0 +1,18 @@
+# Ignore local editor state and preferences
+*.kicad_prl
+
+# Ignore all automatic backups, crash logs, and lock files
+*-bak
+*-bak.*
+*_auto*
+*~
+*.lck
+
+# Ignore all generated manufacturing outputs (Gerbers, PDFs, BOMs)
+[Gg]erber/
+[Gg]erbers/
+[Pp]lots/
+*.gbr
+*.drl
+*.pdf
+*.csv
