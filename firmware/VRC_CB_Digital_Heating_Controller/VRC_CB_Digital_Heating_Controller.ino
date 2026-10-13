@@ -1587,7 +1587,7 @@ client.println(F("</div>"));
         "      : '(Time invalid → Fallback)')"
         "  : '(Timer OFF)') +"
         "'</span></p>';"
-        "html+='<p>Flow: '+d.tVorlauf+' °C → <b>'+d.vtCurve+' °C</b></p>';"
+        "html+='<p>Flow: '+d.tVorlauf+' °C → <b>'+d.vtCorrected+' °C</b></p>';"
         "html+='<p>Outside: '+d.tAussen+' °C</p>';"
         "html+='<p>Pump: <span class=\"'+(d.pump?'on':'off')+'\">'+(d.pump?'ON':'OFF')+'</span></p>';"
         "html+='<p>Burner: <span class=\"'+(d.burner?'on':'off')+'\">'+(d.burner?'ON':'OFF')+'</span></p>';"
